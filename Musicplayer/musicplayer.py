@@ -70,7 +70,7 @@ def deleteTask():
 #TKINTER CONFIGURATION
 
 ws = Tk()
-ws.title('PythonGuides')
+ws.title('Music Player')
 ws.config(bg='#223441')
 ws.resizable(width=False, height=False)
 
